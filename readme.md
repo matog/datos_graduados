@@ -47,7 +47,7 @@ Puntos y mapas coropleticos
 Operaciones de análisis espacial
 Isocronas
 
-#### Bibliografía y sitios recomendados
+### Bibliografía y sitios recomendados
 
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://wesmckinney.com/book/), Wes McKinney. Del creador de la librería Pandas, un libro detallado sobre su uso
 - [http://www.python.org](http://www.python.org) - The official web page of the Python programming language.
@@ -55,7 +55,7 @@ Isocronas
 - [http://www.greenteapress.com/thinkpython/](http://www.greenteapress.com/thinkpython/) - Libro gratuito sobre Python.
 - [Python Essential Reference](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786) - Un buen libro de referencia sobre programación en Python.
 
-#### Recursos adicionales:
+### Recursos adicionales:
 
 - [Kaggle](https://www.kaggle.com/):  Sitio con datagrames y notebooks preparados para practicar EDA y machine learning. Bases de datos de todo tipo, con código comentado. Recomendado para practicar con datos reales.
 - [Google Colab](https://colab.research.google.com): Editor y ejecutor de notebooks en la nube. No hace falta instalar nada local. Gratis.

@@ -10,7 +10,7 @@
 
 - Intro a Pandas - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/datos_graduados/blob/main/Clase2/Introducci%C3%B3n%20a%20pandas.ipynb)
 
-- Intro a Seaborn - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/datos_graduados/blob/main/Clase2/Intro%20a%20seaborn.ipynb
+- Intro a Seaborn - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/datos_graduados/blob/main/Clase2/Intro%20a%20seaborn.ipynb)
 
 
 

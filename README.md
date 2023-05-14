@@ -8,6 +8,13 @@
 
 - Intro a Python - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase1/0%20-%20Introduccion%20a%20Python.ipynb)
 
+- Intro a Pandas - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/datos_graduados/blob/main/Clase2/Introducci%C3%B3n%20a%20pandas.ipynb)
+
+- Intro a Seaborn - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/datos_graduados/blob/main/Clase2/Intro%20a%20seaborn.ipynb
+
+
+
+
 ### Programa
 
 #### Módulo I: Introducción a la programación en Python
@@ -35,7 +42,7 @@ Módulos
 
 Excepciones
 
-#### Módulo II: Exploración y procesamiento de datos
+Módulo II: Exploración y procesamiento de datos
 
 Librerías principales
 

@@ -12,6 +12,7 @@
 
 - Intro a Seaborn - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/datos_graduados/blob/main/Clase2/Intro%20a%20seaborn.ipynb)
 
+- Intro a GIS (Geopandas) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/datos_graduados/blob/main/Clase3/4%20-%20GIS.ipynb)
 
 
 

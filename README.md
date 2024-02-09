@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Ciencias%20Econ%C3%B3micas%20UNLP-Graduados-red?style=flat)
+
 # Big data: Introducción a la ciencia de datos con Python
 
 En este curso aprenderán los líneamientos básicos para programar y procesar datos en python. Los conocimientos son aplicables a cualquier tipo de datos en general, independientemente de la temática. Se repasarán algunos conceptos teóricos, pero mayoritariamente el curso va a requeris mucha práctica por parte de los alumnos, adicional a la brindada en clase. En palabras del econometrista [Che-Lin Su](https://bfi.uchicago.edu/people/che-lin-su):

@@ -1,10 +1,16 @@
-![](https://img.shields.io/badge/Ciencias%20Econ%C3%B3micas%20UNLP-Graduados-red?style=flat) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![](https://img.shields.io/badge/Ciencias%20Econ%C3%B3micas%20UNLP-Graduados-red?style=flat) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](httpTcommonmark.org) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # Big data: Introducción a la ciencia de datos con Python
 
 En este curso aprenderán los líneamientos básicos para programar y procesar datos en python. Los conocimientos son aplicables a cualquier tipo de datos en general, independientemente de la temática. Se repasarán algunos conceptos teóricos, pero mayoritariamente el curso va a requeris mucha práctica por parte de los alumnos, adicional a la brindada en clase. En palabras del econometrista [Che-Lin Su](https://bfi.uchicago.edu/people/che-lin-su):
 
 > Doing Computation is the only way to learn Computation. Doing Computation is the only way to learn Computation. Doing Computation is the only way to learn Computation.
+
+No es necesario tener conocimientos de programación previos. Pero hay que tener en cuenta que no es un curso de _"Excel Avanzado"_, sino que es un curso donde se aprende un lenguaje de programación y su aplicación al procesamiento de grandes cantidades de datos.
+
+Se utilizará el módulo [Pandas](https://pandas.pydata.org/), que está diseñada específicamente para la manipulación y el análisis de datos en el lenguaje Python. Es potente, flexible y fácil de usar. Gracias a [Pandas](https://pandas.pydata.org/), se puede utilizar el lenguaje Python para cargar, alinear, manipular o incluso fusionar datos.
+
+Además, se complementará el curso con otros paquetes como [Matplot](https://www.google.com/search?channel=fs&client=ubuntu&q=matplot) y [SeaBorn](https://seaborn.pydata.org/examples/index.html), para realizar potentes gráficos para mostrar la información.
 
 ## Pre-requisitos
 

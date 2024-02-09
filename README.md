@@ -81,11 +81,12 @@ Creación de muestras y subconjuntos de data frames: subsets and
 samples.
 
 ### Módulo III: Paquetes Gráficos
-   Introducción a plotly y matplot y demás librerías gráficas.
-   Gráficos base: histogramas, scatter plot, bar plot, box plot.
-   Otras herramientas para visualización de datos: manejo de mapas.
-   Personalización de gráficos: ejes, colores, títulos.
-   Exportación de gráficos.
+
+      Introducción a plotly y matplot y demás librerías gráficas.
+      Gráficos base: histogramas, scatter plot, bar plot, box plot.
+      Otras herramientas para visualización de datos: manejo de mapas.
+      Personalización de gráficos: ejes, colores, títulos.
+      Exportación de gráficos.
 
 ### Módulo IV: Georreferenciación
 Georreferenciación de información con el módulo 

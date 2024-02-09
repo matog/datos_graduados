@@ -28,7 +28,7 @@ Además, se complementará el curso con otros paquetes como [Matplot](https://ww
 
 ## Videos de las clases:
 
-- Lista de reproducción - _empty_
+- Lista de reproducción - _Acá se irán agregando los links a los videos de las clases, en el caso que se graben_
 
 ## Link a las clases en colab:
 

@@ -10,24 +10,13 @@ En este curso aprenderán los líneamientos básicos para programar y procesar d
 2. Acceso a una conexión a internet 
 3. No son necesarios conocimientos previos de programación, pero son deseables.
 4. Una cuenta de Gmail para acceder a [Colab](https://colab.research.google.com).
-
-### Getting Programming Skills
-
-1. Check out [Clement Mazet's materials](https://cms27.github.io/teaching/). You must know this level.
-1. We will be using [Julia](http://julialang.org/) for this course. 
-    - [Noteworthy Differences from Other Languages](https://docs.julialang.org/en/stable/manual/noteworthy-differences/)
-    - [MATLAB, Python, Julia Syntax Comparison](http://cheatsheets.quantecon.org/)
-1. Clement in his course will introduce you to things like the [Unix Shell](https://en.wikipedia.org/wiki/Unix_shell) and the verion control system Git. Both of those are very useful - for this course, and for the rest of your life as a scientist. 
-1. [What is Version Control? watch this 5 minute video.](http://git-scm.com/video/what-is-version-control) and go back to Clement's stuff if unclear.
-
+   
 ### Recursos::
 
 - [Kaggle](https://www.kaggle.com/):  Sitio con dataframes y notebooks preparados para practicar EDA y machine learning. Bases de datos de todo tipo, con código comentado. Recomendado para practicar con datos reales.
 - [Google Colab](https://colab.research.google.com): Editor y ejecutor de notebooks en la nube. No hace falta instalar nada local. Gratis.
 - [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists): Excelente fuente de tutoriales sobre Python.
 - [Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg&t=13s): Completo tutorial de [Pandas](https://pandas.pydata.org/).
-
-
 
 ### Videos de las clases:
 
@@ -44,7 +33,6 @@ En este curso aprenderán los líneamientos básicos para programar y procesar d
 - Intro a GIS (Geopandas) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/datos_graduados/blob/main/Clase3/4%20-%20GIS.ipynb)
 
 - Presupuesto - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/datos_graduados/blob/main/Clase4/Presupuesto.ipynb)
-
 
 ### Programa
 
@@ -124,6 +112,6 @@ Isocronas
 - [Python Essential Reference](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786) - Un buen libro de referencia sobre programación en Python.
 
 
-## License
+## Licencia
 
-![](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png) This is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+![](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png) El contenido de este curso está licenciado bajo [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

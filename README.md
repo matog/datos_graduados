@@ -4,25 +4,25 @@ En este curso aprenderán los líneamientos básicos para programar y procesar d
 
 > Doing Computation is the only way to learn Computation. Doing Computation is the only way to learn Computation. Doing Computation is the only way to learn Computation.
 
-## Prerequisites
+## Pre-requisitos
 
 1. Acceso a una PC (notebook o de escritorio).
 2. Acceso a una conexión a internet 
 3. No son necesarios conocimientos previos de programación, pero son deseables.
 4. Una cuenta de Gmail para acceder a [Colab](https://colab.research.google.com).
    
-### Recursos::
+## Recursos::
 
 - [Kaggle](https://www.kaggle.com/):  Sitio con dataframes y notebooks preparados para practicar EDA y machine learning. Bases de datos de todo tipo, con código comentado. Recomendado para practicar con datos reales.
 - [Google Colab](https://colab.research.google.com): Editor y ejecutor de notebooks en la nube. No hace falta instalar nada local. Gratis.
 - [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists): Excelente fuente de tutoriales sobre Python.
 - [Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg&t=13s): Completo tutorial de [Pandas](https://pandas.pydata.org/).
 
-### Videos de las clases:
+## Videos de las clases:
 
 - Lista de reproducción - _empty_
 
-### Link a las clases en colab:
+## Link a las clases en colab:
 
 - Intro a Python - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/Flacso_ciencia_de_datos_python_2022/blob/main/Clase1/0%20-%20Introduccion%20a%20Python.ipynb)
 
@@ -34,9 +34,9 @@ En este curso aprenderán los líneamientos básicos para programar y procesar d
 
 - Presupuesto - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matog/datos_graduados/blob/main/Clase4/Presupuesto.ipynb)
 
-### Programa
+## Programa
 
-#### Módulo I: Introducción a la programación en Python
+### Módulo I: Introducción a la programación en Python
 Cómo instalar Python
 
 Archivos de programa en Python
@@ -61,7 +61,7 @@ Módulos
 
 Excepciones
 
-#### Módulo II: Exploración y procesamiento de datos
+### Módulo II: Exploración y procesamiento de datos
 
 Librerías principales
 
@@ -80,7 +80,7 @@ Funciones de manejo de texto.
 Creación de muestras y subconjuntos de data frames: subsets and 
 samples.
 
-#### Módulo III: Paquetes Gráficos
+### Módulo III: Paquetes Gráficos
 Introducción a plotly y matplot y demás librerías gráficas.
 
 Gráficos base: histogramas, scatter plot, bar plot, box plot.
@@ -91,7 +91,7 @@ Personalización de gráficos: ejes, colores, títulos.
 
 Exportación de gráficos.
 
-#### Módulo IV: Georreferenciación
+### Módulo IV: Georreferenciación
 Georreferenciación de información con el módulo 
 
 GeopandasIntroducción a las proyecciones y formatos de capas con 
@@ -103,7 +103,7 @@ Operaciones de análisis espacial
 
 Isocronas
 
-### Bibliografía y sitios recomendados
+## Bibliografía y sitios recomendados
 
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://wesmckinney.com/book/), Wes McKinney. Del creador de la librería Pandas, un libro detallado sobre su uso
 - [http://www.python.org](http://www.python.org) - The official web page of the Python programming language.

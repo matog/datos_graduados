@@ -87,7 +87,7 @@ Además, se complementará el curso con otros paquetes como [Matplot](https://ww
 ## Bibliografía y sitios recomendados
 
 - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://wesmckinney.com/book/), Wes McKinney. Del creador de la librería Pandas, un libro detallado sobre su uso
-- [http://www.python.org](http://www.python.org) - The official web page of the Python programming language.
+- [http://www.python.org](http://www.python.org) - Página oficial del lenguaje de programación Python.
 - [http://www.python.org/dev/peps/pep-0008](http://www.python.org/dev/peps/pep-0008) - Guía de estilo para la programación en Python. 
 - [http://www.greenteapress.com/thinkpython/](http://www.greenteapress.com/thinkpython/) - Libro gratuito sobre Python.
 - [Python Essential Reference](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786) - Un buen libro de referencia sobre programación en Python.

@@ -37,48 +37,29 @@ En este curso aprenderán los líneamientos básicos para programar y procesar d
 ## Programa
 
 ### Módulo I: Introducción a la programación en Python
-Cómo instalar Python
-
-Archivos de programa en Python
-
-Jupyter Notebooks
-
-Variables y tipos
-
-Operadores y comparaciones
-
-Tipos compuestos (cadenas, listas, tuplas)
-
-Control de flujo
-
-Ciclos
-
-Funciones
-
-Clases
-
-Módulos
-
-Excepciones
+      Cómo instalar Python
+      Archivos de programa en Python
+      Jupyter Notebooks
+      Variables y tipos
+      Operadores y comparaciones
+      Tipos compuestos (cadenas, listas, tuplas)
+      Control de flujo
+      Ciclos
+      Funciones
+      Clases
+      Módulos
+      Excepciones
 
 ### Módulo II: Exploración y procesamiento de datos
-
-Librerías principales
-
-Importación de datos: txt, csv, xlsx, y zip.
-
-Inspección inicial de la información.
-
-Manejo básico pandas
-
-Selección de filas y/o columnas, selección condicionada.
-
-Funciones apply, mapping and merge.
-
-Funciones de manejo de texto.
-
-Creación de muestras y subconjuntos de data frames: subsets and 
-samples.
+      
+      Librerías principales
+      Importación de datos: txt, csv, xlsx, y zip.
+      Inspección inicial de la información.
+      Manejo básico pandas
+      Selección de filas y/o columnas, selección condicionada.
+      Funciones apply, mapping and merge.
+      Funciones de manejo de texto.
+      Creación de muestras y subconjuntos de data frames: subsets y samples.
 
 ### Módulo III: Paquetes Gráficos
 
@@ -89,16 +70,11 @@ samples.
       Exportación de gráficos.
 
 ### Módulo IV: Georreferenciación
-Georreferenciación de información con el módulo 
-
-GeopandasIntroducción a las proyecciones y formatos de capas con 
-información espacial (shape, GeoJson)
-
-Puntos y mapas coropleticos
-
-Operaciones de análisis espacial
-
-Isocronas
+      Georreferenciación de información con el módulo 
+      GeopandasIntroducción a las proyecciones y formatos de capas con  información espacial (shape, GeoJson)
+      Puntos y mapas coropleticos
+      Operaciones de análisis espacial
+      Isocronas
 
 ## Bibliografía y sitios recomendados
 
